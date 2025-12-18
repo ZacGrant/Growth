@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**:delightful-design-app.lovable.app
+**URL**: delightful-design-app.lovable.app
 
 ## How can I edit this code?
 
